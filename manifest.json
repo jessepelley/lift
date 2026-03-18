@@ -1,0 +1,26 @@
+{
+  "name": "LIFT – Workout Tracker",
+  "short_name": "LIFT",
+  "description": "One exercise at a time. Upper/Lower split tracker with muscle heatmap.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0e0e0f",
+  "theme_color": "#0e0e0f",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "categories": ["health", "fitness", "sports"]
+}
